@@ -17,8 +17,8 @@ npm install -g pnpm
 ### Cloning the repository
 
 ```bash
-git clone https://github.com/jokerhgs/vite-react-boilerplate.git
-cd your-repo-name
+git clone https://github.com/jokerhgs/advanced-typescript-react-guide.git
+cd advanced-typescript-react-guide
 ```
 
 ---

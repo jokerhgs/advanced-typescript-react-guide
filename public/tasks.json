@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "Write project README",
+    "completed": true
+  },
+  {
+    "id": "2",
+    "name": "Build TaskForm component",
+    "completed": false
+  },
+  {
+    "id": "3",
+    "name": "Implement dark/light theme toggle",
+    "completed": false
+  },
+  {
+    "id": "4",
+    "name": "Refactor task reducer",
+    "completed": true
+  },
+  {
+    "id": "5",
+    "name": "Optimize performance with useMemo and useCallback",
+    "completed": false
+  }
+]

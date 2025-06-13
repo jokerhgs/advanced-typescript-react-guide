@@ -1,5 +1,6 @@
+import { TaskPlanner } from "./react/common-hooks/task-planner";
 function App() {
-  return <h1 className="text-2xl text-red-500">hello world!</h1>;
+  return <TaskPlanner />;
 }
 
 export default App;

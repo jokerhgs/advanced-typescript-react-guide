@@ -1,6 +1,5 @@
-import { TaskPlanner } from "./react/common-hooks/task-planner";
 function App() {
-  return <TaskPlanner />;
+  return <div>This is the main App</div>;
 }
 
 export default App;
